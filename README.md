@@ -35,6 +35,7 @@ This repository provides links to awesome (open-source) research software with a
 - [OpenSesame](https://osdoc.cogsci.nl/): OpenSesame is a program to create experiments for psychology, neuroscience, and experimental economics
 - [oTree](https://www.otree.org/): oTree is a behavioral research platform that lets you build any kind of task or interaction, even if it's something nobody else has made before
 - [PsychoPy](https://psychopy.org/index.html): Open-source package for running experiments in Python (a real and free alternative to Matlab) that combines the graphical strengths of OpenGL with simple Python syntax to give scientists a free and simple stimulus presentation and control package. It is used by many labs worldwide for psychophysics, cognitive neuroscience and experimental psychology
+- [ResearchKIT](https://github.com/ResearchKit/ResearchKit): open source software framework that makes it easy to create apps for medical research or for other research projects
 
 ### Data wrangling, modeling, exploration and analysis
 
@@ -89,6 +90,7 @@ This repository provides links to awesome (open-source) research software with a
 ### (Online) Surveys
 
 - [formr](https://formr.org/): chain simple surveys into long runs, use the power of R to generate pretty feedback and complex designs
+- [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey): open-source survey platform; free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms
 
 ### Qualitative data analysis
 
