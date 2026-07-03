@@ -8,6 +8,7 @@ This repository provides links to awesome (open-source) research software with a
 - [Behavioral experimental platforms](#behavioral-experimental-platforms)
 - [Data wrangling, modeling, exploration and analysis](#data-wrangling-modeling-exploration-and-analysis)
 - [Digital collections, exhibitions and image management](#digital-collections-exhibitions-and-image-management)
+- [Digital scholarly editions](#digital-scholarly-editions)
 - [Electronic lab notebooks](#electronic-lab-notebooks)
 - [Geospatial research](#geospatial-research)
 - [Image and video annotation and analysis](#image-and-video-annotation-and-analysis)
@@ -17,7 +18,7 @@ This repository provides links to awesome (open-source) research software with a
 - [Qualitative data analysis](#qualitative-data-analysis)
 - [Statistical analysis](#statistical-analysis)
 - [Systematic review and bibliometrics](#systematic-review-and-bibliometrics)
-- [Text annotation, analysis and publication](#text-annotation-analysis-and-publication)
+- [Text annotation and analysis](#text-annotation-and-analysis)
 - [Text recognition (OCR, HTR etc.)](#text-recognition-ocr-htr-etc)
 
 ---
@@ -46,6 +47,12 @@ This repository provides links to awesome (open-source) research software with a
 
 - [Omeka](https://omeka.org/): free, open source web-publishing platform for library, museum, archive and scholarly collections and exhibitions
 - [Tropy](https://tropy.org/): free, open source research photo management for archival images
+
+### Digital scholarly editions
+
+- [ediarum](https://www.ediarum.org/index.html): digital work environment consisting of several software components that allows scholars to edit transcriptions of manuscripts and printed works in TEI-compliant XML, add textual and critical apparatus as well as indexes, and publish them online and in print
+- [TEI Publisher](https://teipublisher.com/index.html): TEI Publisher is designed as a working environment for creating and publishing of digital scholarly editions
+- [TextGrid](https://textgrid.de/): open source virtual research environment for digital scholarly editing
 
 ### Electronic lab notebooks
 
@@ -100,17 +107,14 @@ This repository provides links to awesome (open-source) research software with a
 - [VOSviewer](https://www.vosviewer.com/): free software for constructing and visualizing bibliometric networks
 - [bibliometrix](https://www.bibliometrix.org/): open-source R tool for quantitative research in scientometrics and bibliometrics
 
-### Text annotation, analysis and publication
+### Text annotation and analysis
 
 - [CATMA](https://catma.de/): web-based, open source tool for undogmatic text annotation and analysis (University of Hamburg)
-- [ediarum](https://www.ediarum.org/index.html): digital work environment consisting of several software components that allows scholars to edit transcriptions of manuscripts and printed works in TEI-compliant XML, add textual and critical apparatus as well as indexes, and publish them online and in print
 - [INCEpTION](https://inception-project.github.io/): A semantic annotation platform offering intelligent assistance and knowledge management
 - [LEAF Writer](https://dev.leafwriter.users.h-da.cloud/): XML & RDF online editor of the Linked Editing Academic Framework
 - [MALLET](https://mimno.github.io/Mallet/): Java-based package for statistical NLP, document classification, clustering, topic modeling and information extraction
 - [Recogito](https://recogito.pelagios.org/): open source tool for collaborative semantic annotation of texts and images, incl. geo-annotation via gazetteers (Pelagios Network)
 - [TEI Garage](https://teigarage.tei-c.org/): Web tool for converting to and from TEI XML
-- [TEI Publisher](https://teipublisher.com/index.html): TEI Publisher is designed as a working environment for creating and publishing of digital scholarly editions
-- [TextGrid](https://textgrid.de/): open source virtual research environment for digital scholarly editing
 - [Voyant Tools](https://voyant-tools.org/): web-based reading and analysis environment for digital texts
 - [Hypothes.is](https://web.hypothes.is/): open-source browser-based tool for annotating webpages, PDFs and EPUBs
 - [Annotation Studio](https://www.annotationstudio.org/): open-source collaborative web annotation suite for close reading and textual interpretation (MIT Hyperstudio)
