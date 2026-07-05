@@ -1,10 +1,10 @@
 # 🌞 Awesome Research Software
 
-This repository provides links to awesome (open-source) research software with a focus on production-ready tools used and established in research communities.
+This repository provides links to awesome research software, i.e. "software that is developed to serve a research purpose" [[Research Software Alliance](https://www.researchsoft.org/about/)]. The list focuses on open-source or free tools that are ready for production.
 
 ## Table of Contents
 
-- [Audio analysis](#audio-analysis)
+- [Audio processing, transcription and analysis](#audio-processing-transcription-and-analysis)
 - [Behavioral experimental platforms](#behavioral-experimental-platforms)
 - [Data wrangling, modeling, exploration and analysis](#data-wrangling-modeling-exploration-and-analysis)
 - [Digital collections, exhibitions and image management](#digital-collections-exhibitions-and-image-management)
@@ -25,8 +25,10 @@ This repository provides links to awesome (open-source) research software with a
 
 ## Software
 
-### Audio analysis
+### Audio processing, transcription and analysis
 
+- [aTrain](https://github.com/aTrainTranscription/aTrain): GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models
+- [noScribe](https://noscribe.de/en/): Free, open source interview transcription with AI. noScribe is used wherever particularly sensitive audio data is handled - in journalism, medicine, companies, government agencies and NGOs
 - [Praat](https://www.praat.org/): standard open source tool for phonetic analysis of speech
 
 ### Behavioral experimental platforms
