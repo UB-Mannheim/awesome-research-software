@@ -110,6 +110,7 @@ These icons provide more information about the tools:
 - [JASP](https://jasp-stats.org/) 💻: open-source statistics software for classical and Bayesian analyses with an intuitive GUI
 - [jamovi](https://www.jamovi.org/) 🌤️/💻: open statistical software built on R, a free alternative to SPSS/SAS
 - [PSPP](https://www.gnu.org/software/pspp/) 💻: free GNU tool for statistical analysis of sampled data, SPSS alternative
+- [METACO Codebook Generator](https://ersan.eu/MetaCo/free/codebook.html) 🌤️: free browser-based tool that turns an Excel or CSV variable list into a printable codebook (data dictionary); nothing is uploaded
 
 ### Systematic review and bibliometrics
 
